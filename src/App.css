@@ -3,8 +3,12 @@
   text-align: center;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+
+
 .App{
   color: white;
+  font-family: 'Padauk', sans-serif;
 }
 
 .green{
