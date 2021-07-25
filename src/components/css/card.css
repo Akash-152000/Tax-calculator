@@ -1,0 +1,53 @@
+.card{
+    padding: 10px;
+    width: 350px;
+      height: 500px;
+      background-color:white;
+      
+      position: absolute;
+      top:20%;
+      bottom: 0;
+      left: 0;
+      right: 0;
+        
+      margin: auto;
+
+      text-align: center;
+      color: black;
+  }
+
+.card h1{
+    background-color: white;
+}
+
+.card input{
+    color: black;
+    width:90%;
+    height: 10%;
+    font-size: 26px;
+    color: #6D6E70;
+    /* border-radius: 20px; */
+}
+
+.buttonComponent1{
+    position: absolute;
+    top:50%;
+      bottom: 0;
+      left: 0;
+      right: 0;
+}
+
+.buttonComponent2{
+    position: absolute;
+    top: 70%;
+      bottom: 0;
+      left: 0;
+      right: 0;
+}
+
+.amount{
+    position: absolute;
+    top: 25%;
+    padding-left: 1em;
+    color: #808080;
+}
