@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tax-caluclator/static/css/main.c9a4313c.chunk.css",
-    "main.js": "/Tax-caluclator/static/js/main.c4f424fb.chunk.js",
-    "main.js.map": "/Tax-caluclator/static/js/main.c4f424fb.chunk.js.map",
-    "runtime-main.js": "/Tax-caluclator/static/js/runtime-main.87aa95ff.js",
-    "runtime-main.js.map": "/Tax-caluclator/static/js/runtime-main.87aa95ff.js.map",
-    "static/js/2.b964a794.chunk.js": "/Tax-caluclator/static/js/2.b964a794.chunk.js",
-    "static/js/2.b964a794.chunk.js.map": "/Tax-caluclator/static/js/2.b964a794.chunk.js.map",
-    "static/js/3.bbf4fe24.chunk.js": "/Tax-caluclator/static/js/3.bbf4fe24.chunk.js",
-    "static/js/3.bbf4fe24.chunk.js.map": "/Tax-caluclator/static/js/3.bbf4fe24.chunk.js.map",
-    "index.html": "/Tax-caluclator/index.html",
-    "static/css/main.c9a4313c.chunk.css.map": "/Tax-caluclator/static/css/main.c9a4313c.chunk.css.map",
-    "static/js/2.b964a794.chunk.js.LICENSE.txt": "/Tax-caluclator/static/js/2.b964a794.chunk.js.LICENSE.txt"
+    "main.css": "/Tax-calculator/static/css/main.c9a4313c.chunk.css",
+    "main.js": "/Tax-calculator/static/js/main.c4f424fb.chunk.js",
+    "main.js.map": "/Tax-calculator/static/js/main.c4f424fb.chunk.js.map",
+    "runtime-main.js": "/Tax-calculator/static/js/runtime-main.f319eaed.js",
+    "runtime-main.js.map": "/Tax-calculator/static/js/runtime-main.f319eaed.js.map",
+    "static/js/2.b964a794.chunk.js": "/Tax-calculator/static/js/2.b964a794.chunk.js",
+    "static/js/2.b964a794.chunk.js.map": "/Tax-calculator/static/js/2.b964a794.chunk.js.map",
+    "static/js/3.bbf4fe24.chunk.js": "/Tax-calculator/static/js/3.bbf4fe24.chunk.js",
+    "static/js/3.bbf4fe24.chunk.js.map": "/Tax-calculator/static/js/3.bbf4fe24.chunk.js.map",
+    "index.html": "/Tax-calculator/index.html",
+    "static/css/main.c9a4313c.chunk.css.map": "/Tax-calculator/static/css/main.c9a4313c.chunk.css.map",
+    "static/js/2.b964a794.chunk.js.LICENSE.txt": "/Tax-calculator/static/js/2.b964a794.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.87aa95ff.js",
+    "static/js/runtime-main.f319eaed.js",
     "static/js/2.b964a794.chunk.js",
     "static/css/main.c9a4313c.chunk.css",
     "static/js/main.c4f424fb.chunk.js"
