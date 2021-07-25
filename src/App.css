@@ -1,6 +1,12 @@
 * {
   
   text-align: center;
+}
+
+.App{
   color: white;
 }
 
+.green{
+  color:#44B29F;
+}
