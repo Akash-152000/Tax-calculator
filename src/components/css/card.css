@@ -1,3 +1,4 @@
+
 .card{
     padding: 10px;
     width: 350px;
@@ -16,12 +17,11 @@
       color: black;
   }
 
-.card h1{
+/* .card h1{
     background-color: white;
-}
+} */
 
 .card input{
-    color: black;
     width:90%;
     height: 10%;
     font-size: 26px;
@@ -45,9 +45,18 @@
       right: 0;
 }
 
-.amount{
+.card .amount{
     position: absolute;
-    top: 25%;
-    padding-left: 1em;
-    color: #808080;
+    display: flex;
+    top: 20%;
+    padding-left: 3em;
+    color: #6D6E70;
+}
+
+.card img{
+    align-self: center;
+}
+
+.card h1{
+    margin:2rem;
 }
